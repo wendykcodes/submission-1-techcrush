@@ -1,0 +1,16 @@
+.major,
+.min {
+  letter-spacing: 1.4rem;
+}
+
+.major {
+  padding-top: 90px;
+}
+
+.pt {
+  padding-top: 150px;
+}
+
+.pb {
+  padding-bottom: 150px;
+}
